@@ -17,9 +17,11 @@ author_profile: true
  ---
  <!--나중에 프로젝트내용 포스트 올리면 projects카테고리로 묶고 /projects/프로젝트이름 으로 링크걸기-->
  - **팀 프로젝트 경험**
-   - java개발자를 위한 타이핑 게임서비스 개발  
-   - 남성 쇼핑몰 모바일앱, 관리자웹페이지 서버/백엔드 개발  
-   - 알바 대타 모바일앱 서버/백엔드 개발
+   - 멀티 캠퍼스 - java개발자를 위한 타이핑 게임서비스 개발  
+   - Hatches - 남성 쇼핑몰 모바일앱, 관리자웹페이지 서버/백엔드 개발  
+   - 대학내일 - 알바 대타 모바일 앱 어플리케이션 서버/백엔드 개발  
+   - 경희대학교 해커톤 - 날씨맞춤 여행지 추천 웹 어플리케이션 프론트엔드/백엔드 개발  
+   - 신한 해커톤 - 신한금융그룹의 실제 api를 사용하여 혜택이 가장 좋은 카드가 자동으로 결제되는 간편결제 모바일 앱 어플리케이션 서버/백엔드 개발 (우수상 수상)
  - **개인 프로젝트 경험**  
    - [게시판(java, servlet, jsp, mysql)](https://github.com/GreatLaboratory/Jsp_Board)  
    - [방명록(java, spring, jsp, mysql)](https://github.com/GreatLaboratory/Layered_Architecture)  
