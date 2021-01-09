@@ -115,15 +115,12 @@ author:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
           url: mailto:wowo0201@gmail.com
-        - label: "Website"
-          icon: "fas fa-fw fa-link"
-          url: "https://greatlaboratory.github.io"
         - label: "GitHub"
           icon: "fab fa-fw fa-github"
           url: "https://github.com/GreatLaboratory"
-        - label: "Instagram"
-          icon: "fab fa-fw fa-instagram"
-          url: "https://instagram.com/greatlaboratory/"
+        - label: "Facebook"
+          icon: "fab fa-fw fa-facebook"
+          url: "https://www.facebook.com/profile.php?id=100035749350028"
 
 # Site Footer
 footer:
